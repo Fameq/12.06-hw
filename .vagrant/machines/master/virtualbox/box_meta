@@ -1,1 +1,1 @@
-{"name":"ubuntu","version":"0","provider":"virtualbox","directory":"boxes/ubuntu/0/virtualbox"}
+{"name":"generic/ubuntu2204","version":"4.2.6","provider":"virtualbox","directory":"boxes/generic-VAGRANTSLASH-ubuntu2204/4.2.6/virtualbox"}

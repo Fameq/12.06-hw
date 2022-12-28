@@ -37,7 +37,9 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
-![alt text](https://github.com/Fameq/12.06-hw/blob/master/img/task3_1.png)
+![alt text](https://github.com/Fameq/12.06-hw/blob/master/img/task3_3.png)
+
+![alt text](https://github.com/Fameq/12.06-hw/blob/master/img/task3_4.png)
 
 ![alt text](https://github.com/Fameq/12.06-hw/blob/master/img/task3_2.png)
 
